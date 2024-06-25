@@ -1,0 +1,1 @@
+Install python 3.12 aws cloudshell
